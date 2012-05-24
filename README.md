@@ -7,5 +7,5 @@ Usage
 =====
 
 ```bash
-cassandra2graphite host prefix graphite_host graphite_port`
+cassandra2graphite host prefix graphite_host graphite_port
 ```
